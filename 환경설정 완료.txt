@@ -1,0 +1,6 @@
+1.JDK 버전
+2.Tomcat버전
+3.Spring 버전
+4.Dynamic Web Project 버전
+5.Oracle 버전, 드라이버
+6.사용할 라이브러리
